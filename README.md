@@ -1,0 +1,3 @@
+# x-component
+
+* React Component
