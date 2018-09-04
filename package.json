@@ -1,6 +1,6 @@
 {
-  "name": "m-component",
-  "version": "1.0.0",
+  "name": "r-component",
+  "version": "1.0.1",
   "description": "React Component",
   "main": "index.js",
   "scripts": {

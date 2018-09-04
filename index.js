@@ -3,7 +3,7 @@ import { withRouter } from "react-router-dom";
 import axios from "axios";
 import Promise from "promise";
 
-class mComponent extends React.Component {
+class RComponent extends React.Component {
     constructor(props) {
         super(props);
         this.router = {
@@ -95,6 +95,6 @@ class mComponent extends React.Component {
 
 }
 
-export { mComponent };
+export { RComponent };
 
 export default withRouter(React);
